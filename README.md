@@ -1,3 +1,3 @@
 # HELLO-WORLD
 ENTERING IN THE WORLD OF CODING
-i am in jaypee institute ofinformtion technology noida.
+I am in Jaypee Institute Of Informtion Technology Noida.
